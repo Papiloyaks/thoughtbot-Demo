@@ -1,0 +1,38 @@
+body{
+    margin: 0px 300px 0px 300px;
+    font-size: 20px;
+    background-color: hex(#FFFFFF);
+    
+    
+}
+
+h1{
+    font-size: 40px;
+    margin-top: 10px;
+    margin-bottom:10px;
+}
+
+.Divone{
+    margin-bottom: 100px;
+    margin-left: 30px;
+    margin-right: 200px;
+
+}
+a{
+    color: rgb( 228,75,75);
+    text-decoration: none;
+    
+}
+
+
+a:hover{
+    color: rgb( 228,75,75);
+}
+
+.A1{
+    text-decoration: underline;
+
+}
+.color{
+    color: black;
+}
